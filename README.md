@@ -2,12 +2,12 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=7bdbc3&height=240&text=Hello%20World!%20👋%20I'm%20주언&animation=&fontColor=ffffff&fontSize=60" />
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 오주언 </h2>  
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 오주언 (Jueon Oh) </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 세상은 코드로 돌아간다. </div> <br/> 
         💡 새로운 기술, 도구, 방법론을 두려워하지 않고 도전해요. <br/> 
         💡 협업하고, 배우고, 서로를 성장시켜요.
-    <br/>
     </div>
+    <br/><br/><br/>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> 
@@ -19,13 +19,13 @@
           <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white">
           </div>
     </div>
-    <br/>
+    <br/><br/><br/>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div align= "center"> <a href=https://sulsikanit.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white&link=https://sulsikanit.tistory.com/"> </a>
          <a href=mailto:oju0916@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:oju0916@gmail.com"> </a>
          <a href=https://velog.io/@sulsikan2/posts> <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white&link=https://velog.io/@sulsikan2/posts"> </a>
-          </div>  <br> 
+          </div>
     <div align= "center">  </div> 
     </div>
     <br/>
