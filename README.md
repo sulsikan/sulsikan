@@ -23,10 +23,10 @@
     <br/><br/><br/>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-    <div align= "center"> <a href=https://sulsikanit.tistory.com/> 
-         <a href=mailto:oju0916@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:oju0916@gmail.com"> </a>
-        <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white&link=https://sulsikanit.tistory.com/"> </a>
-         <a href=https://velog.io/@sulsikan2/posts> <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white&link=https://velog.io/@sulsikan2/posts"> </a>
+    <div align= "center"> 
+         <a href=mailto:oju0916@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:oju0916@gmail.com"> </a> <br> 
+         <a href=https://sulsikanit.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white&link=https://sulsikanit.tistory.com/"> </a>(개발 기록, 지식 공유, 기타 글) <br>
+         <a href=https://velog.io/@sulsikan2/posts> <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white&link=https://velog.io/@sulsikan2/posts"> </a>(학습 기록)
           </div>
     <div align= "center">  </div> 
     </div>
