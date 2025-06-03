@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7bdbc3&height=240&text=Hello%20World%20👋%20I'm%20Jueon&animation=&fontColor=ffffff&fontSize=60" />
 
 
-🌱 I’m mainly work on **Data Engineering**
+🌱 I primarily study **data engineering**.
 
 💡 새로운 기술을 두려워하지 않고 도전해요.
 
