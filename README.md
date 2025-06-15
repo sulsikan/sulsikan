@@ -17,7 +17,7 @@
 
 ## 💻 Tech Stack:
 ### OS
-![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000) ![Windows server](https://img.shields.io/badge/window-017CEE?style=for-the-badge&logo=window&logoColor=000000)
+![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000) ![Windows server](https://img.shields.io/badge/windows-017CEE?style=for-the-badge&logo=window&logoColor=000000)
 ### Language & Frameworks
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ### Data Tools
